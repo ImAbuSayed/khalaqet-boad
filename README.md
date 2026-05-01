@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نور عيني في ليلي
+> نار الشوق تكويني وتهد حيلي
+> روحك في قلبي تسري مع دمي
+> أنت دواء جروحي وكل همي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
